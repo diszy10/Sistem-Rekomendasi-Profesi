@@ -1,0 +1,32 @@
+TIK
+Memahami definisi sistem terdistribusi dan dapat memberikan contoh nyata 
+Mengetahui karakteristik sistem terdistribusi 
+Mengetahui model sistem terdistribusi 
+Mengetahui permasalahan-permasalahan yang terjadi pada sistem terdistribusi 
+Mengetahui prinsip-prinsip dan layer protokol serta metode komunikasi diantara proses-proses yang terjadi pada sistem terdistribusi 
+Mengenal konsep RPC (Remote Procedure Call)
+Mengeatahui konsep objek terdistribusi dan object interface 
+Mengetahui implementasi thread dan multithreaded server 
+Mengetahui model-model arsitektur dan memahami arsitektur client-server 
+"Mengenal software, teknologi dan bahasa komunikasi agent "
+Mengetahui fungsi sistem operasi 
+Mengetahui komponen inti sistem operasi dan fungsi kernel
+Mengetahui konsep proses dan thread dalam system operasi
+Memahami file service terdistribusi
+Mengetahui komponen-komponen file service 
+Mengetahui interface service 
+Memahami konsep dasar name service 
+Mengetahui model name service 
+Mengetahui sinkronisasi clock
+Mengetahui proses koordinasi aktifitas-sktifitas dalam sistem terdistribusi 
+Mengetahui dan dapat membedakan model sinkronisasi dan asinkronisasi 
+Mengetahui konsep dan operasi antara server dan client 
+Mengetahui proses layanan pada saat terjadi crash dan urutan operasi yang dijalani oleh server
+Mengetahui konsep dasar replikasi  
+Mengetahui konsep database trdistribusi 
+Mengetahui pengelolaan database terdistribusi 
+Mengetahui konsep dasar parallel processing 
+Mengetahui model arsitektur parallel
+Mengetahui PVM dan MPI 
+Mengetahui definisi security
+Mengetahui mekanisme dan teknik-teknik security

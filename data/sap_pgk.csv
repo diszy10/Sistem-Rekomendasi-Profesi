@@ -1,0 +1,32 @@
+TIK
+"Mahasiswa memahami konsep dari grafik komputer dan oleh citra, serta hubungan antara keduanya"
+Mahasiswa memahami perkembangan implementasi dri grafik komputer dan olah citra
+Mahasiswa mampu memahami arsitektur sistem grafik komputer dan olah citra
+Mahasiswa memahami device input yang diperlukan 
+Mahasiswa memahami device output yang diperlukan
+Mahasiswa mengetahui elemen-elemen pembentuk grafik
+Mahasiswa memahami output primitive (titik dan garis)
+Mahasiswa mampu memahami attribute output lainnya
+Mahasiswa memahami konsep histogram dan penerapannya
+Mahasiswa memahami konsep filtering untuk peningkatan mutu citra
+Mahasiswa dapat mengerti konsep contrast switching dalam peningkatan mutu citra
+Mahasiswa dapat menggunakan tehnik transformasi dan koreksi geometris
+Mahasiswa dapat memahami konsep pemulihan citra
+Mahasiswa memahami apakah yang dimaksud dengan Clipping
+Mahasiswa memahami Point clipping
+Mahasiswa memahami Line clipping
+Mahasiswa memahami algoritma clipping dan dapat mengimplementasikannya menggunakan tools tertentu
+Mahasiswa dapat mengerti segmentasi citra 
+Mahasiswa dapat memahami teknik segmentasi citra berdasarkan histogram
+Mahasiswa dapat memahami segmentasi citra biner
+Mahasiswa dapat memahami perbedaan citra analog/continue dan digital
+Mahasiswa memahami proses perubahan dari citra analog/continue ke digital (proses digitasi)
+mahasiswa mengetahui peralatan yang digunakan untuk mengolah citra
+Mahasiswa memahami penyajian citra digital
+Mahasiswa memahami makna resolusi citra digital (seberapa dekat citra digital dengan citra asalnya)
+Mahasiswa dapat memahami tingkat keabuan dan warna citra
+Mahasiswa memahami penyajian citra biner
+Mahasiswa mampu memahamai operasi-operasi pengolahan citra.
+"Mahasiswa mampu memahami proses memperbaiki citra mencakup: perbaikan kontras gelap/terang, perbaikan tepian objek, penajaman (sharpening), pemberian warna semu (pseudocolouring), penapisan derau (noise filtering)"
+"Mahasiswa mampu memahami proses pengolahan citra dengan berbagai teknik filtering, misal : Low Pass, High Pass dsb "
+Mahasiswa memahami proses kompresi citra yang bertujuan meminimalkan kebutuhan memori untuk meepresentasikan citra digital.

@@ -1,0 +1,48 @@
+TIK
+Mengerti cakupan materi Organisasi Komputer
+Mengerti struktur dan fungsi organisasi komputer secara umum
+Mengetahui sejarah perkembangan komputer
+Mengerti Komponen dasar komputer yang mengacu dari von Nuemann Architecture
+"Memahami struktur inter-koneksi pada memori, modul I/O dan CPU"
+Memahami interkoneksi bus dan PCI
+Mengetahui kategori media penyimpanan
+Mengenal berbagai jenis media penyimpanan yang menggunakan magnetik
+Mengenal berbagai jenis media penyimpanan yang menggunakan optical
+Mengenal berbagai jenis media penyimpanan yang menggunakan chip (IC)
+Memahami adanya cache yang dapat membantu memori utama
+Mengetahui organisasi DRAM
+Memahami dan menjelaskan perangkat eksternal I/O
+memahami dan menjelaskan fungsi dan struktur dan modul I/O
+Memahami dan menjelaskan I/O terprogram termasuk perintah dan iinstruksi I/O
+Memahami dan menjelaskan Interrupt Driven I/O termasuk pengolahan dan perancangannya
+Memehami cara menjelaskan Direct Memory Access (DMA)  berikut fungsi dan pengendalinya
+"Memahami dan menjelaskan saluran I/O dan prosesor termasuk evolusi, fungsi dan karakteristik saluran I/O"
+Mengenal media antarmuka (port) yang terdapat pada Sistem komputer.
+Mengenal berbagai jenis alat masukan dan keluaran juga memahami metode yang digunakan untuk penggunaan alat masukan dan keluaran pada system komputer
+Memahami berbagai fungsi dan arithmatika pada sebuah ALU
+Memahami secara logika mengenai proses kerja dari sebuah CPU
+Memahami konversi bilangan yang dilakukan oleh CPU
+"Memahami proses penam-bahan, pengurangan, per-kalian dan pembagian pada aritmatika"
+Memahami proses kerja CPU secara aritmatika dan logika
+Mengerti operasi-operasi mikro meliputi siklus-siklus instruksi
+Mengerti bagaimana kontrol oleh prosesor
+Mengenalkan konsep dasar instruksi mikro
+Memahami karakteristik instruksi mesin
+Memahami tipe-tipe operand
+Memahami tipe-tipe operasi yang ada
+Mengenal point 2 dan 3 untuk kasus pada Pentium
+Memahami jenis-jenis mode pengalamatan yang digunakan pada komputer
+Memahami format instruksi yang digunakan
+Memahami denifisi system perangkat lunak Sistem
+Mengenal jenis-jenis perangkat lunak aplikasi yang dapat digunakan pada system komputer
+Memahami peranan perangkat lunak utilitas pada system computer
+Memahami dan menjelaskan jenis-jenis perangkat lunak pemrograman
+Memahami organisasi CPU dengan memperhatikan persyaratan yang ada serta hal-hal yang perlu
+"Menjelaskan fungsi, macam dan contoh Register yang terdapat pada CPU"
+Menjelaskan siklus instruksi pada CPU
+Memahami pendekatan organisasi CPU dengan menggunakan Pipelining Instruksi
+Memberikan gambaran tentang organisasi Prosesor Pentium
+Memahami arsitektur RISC
+Menjelaskan pipelining RISC
+Menjelaskan perbedaan RISC dan CISC
+Menjelaskan prosesor supersaklar

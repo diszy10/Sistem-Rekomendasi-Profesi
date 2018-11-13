@@ -1,0 +1,99 @@
+TIK
+Mahasiswa dapat menjelaskan pengertian algoritma.
+Mahasiswa dapat menyebutkan sifat-sifat suatu algoritma.
+Mahasiswa dapat menjelaskan tentang sejarah singkat bahasa pemrograman pascal.
+Mahasiswa mengerti tentang konsep dasar pembuatan program pada bahasa pascal.
+Mahasiswa dapat menyebutkan jenis-jenis data sederhana.
+"Mahasiswa dapat menjelaskan pengertian integer,  real, boolean dan char."
+"Mahasiswa dapat membuat contoh  deklarasi dari tipe data integer,  real character dan boolean."
+"Mahasiswa dapat menjelaskan pengertian Konstanta, variabel dan ekspresi serta dapat memberikan contoh untuk konstanta,  variabel dan ekspresi."
+Mahasiswa dapat menjelaskan mengenai statemen READ dan READLN dan dapat menjelaskan perbedaan dari kedua statemen itu.
+Mahasiswa dapat menjelaskan mengenai statemen WRITE dan WRITELN dan dapat menjelaskan perbedaan dari kedua statemen itu.
+Mahasiswa dapat menjelaskan mengenai konsep string
+Mahasiswa dapat menggunakan pemakaian procedure dan fungsi standard
+Mahasiswa dapat membuat contoh program dengan menggunakan manipulasi string
+"Mahasiswa dapat menjelaskan mengenai konsep penggunaan struktur perulangan While-Do, Repeat-Until dan For."
+Mahasiswa dapat membedakan pemakaian struktur perulangan WHILE-DO dan REPEAT-UNTIL
+"Mahasiswa dapat memberikan contoh-contoh program dengan menggunakan WHILE-DO, REPEAT-UNTI L dan FOR"
+Mahasiswa dapat menyebutkan macam-macam statemenpenyeleksian kondisi.
+Mahasiswa dapat menjelaskan bentuk umum dari statemen kondisi IF dan CASE.
+"Mahasiswa dapat membuat contoh program sederhana dengan	menggunakan statemenkondisi IF dan CASE."
+Mahasiswa dapat menjelaskan konsep pemakaian statemen GOTO serta mahasiswa diharapkan dapat membuat contoh program sederhananya.
+Mahasiswa dapat menjelaskan mengenai pengiriman parameter secara nilai.
+Mahasiswa dapat menjelaskan mengenai pengiriman parameter secara acuan.
+Mahasiswa dapat menjelaskan cara procedure memanggil procedure lain dan dirinya sendiri.
+Mahasiswa dapat membuat program sederhana dengan menggunakan procedure.
+Mahasiswa dapat menjelaskan pembentukan fungsi tanpa parameter.
+Mahasiswa dapat menjelaskan mengenai pengiriman parameter dalam fungsi.
+Mahasiswa dapat menjelaskan cara pemanggilan pada procedure tersarang.
+Mahasiswa dapat menjelaskan cara fungsi memanggil dirinya sendiri
+Mahasiswa dapat membuat contoh program sederhana dengan menggunakan fungsi.
+Mahasiswa dapat menjelaskan pengertian array
+"Mahasiswa dapat membuat deklarasi tipe data array,  baik yang satu dimensi maupun yang dua dimensi."
+"Mahasiswa dapat membuat contoh program sederhana dengan menggunakan tipe data array,  baik yang satu dimensi maupun dua dimensi."
+Mahasiswa dapat menjelaskan pengertian tentang record.
+Mahasiswa dapat membuat deklarasi tipe data record.
+Mahasiswa dapat membuat contoh program sederhana dengan menggunakan tipe data record.
+Mahasiswa dapat menjelaskan pengertian tentang suatu file.
+Mahasiswa dapat menyebutkan  procedure dan fungsi standart untuk semua tipe file.
+Mahasiswa dapat membuat deklarasi untuk suatu file.
+"Mahasiswa mengerti cara membuat file, menambah data dan menampilkan data pada file"
+Mahasiswa dapat membuat contoh program.
+Mahasiswa dapat menjelaskan mengenai pengertian SET.
+Mahasiswa dapat membuat deklarasi dari tipe data SET.
+Mahasiswa dapat membuat program menggunakan SET.
+Mahasiswa dapat menjelaskan mengenai pengertian list dan ponter.
+Mahasiswa dapat membuat tipe data pointer.
+Mahasiswa dapat membuat program menggunakan Linklist
+"Mahasiswa mampu Mengetahui perkembangan dari bahasa pemrograman, perkembangan dari Visual Basic dari GW - Basic, Basica Obasic, Qbasic sampai Visual Basic istilah-istilah dalam Visual Basic,  jenis-jenis aplikasi yang dapat dibuat dengan Visual Basic, pembuatan dan pengembangan Visual Basic"
+"Mahasiswa dapat mengetahui kebutuhan perangkat keras yg digunakan untuk Visual Basic, cara instalasi Visual Basic, mampu menjalankan Visual Basic danm mengenal interface yang ada dalam Visual Basic"
+Mahasiswa Mengerti dan memahami pembuatan form dengan menggunakan beberapa Toolbox dan Command Button
+Mahasiswa mampu membuat proyek
+Mahasiswa mampu bekerja dengan mendesain file proyek pada Visual Basic yang digunakan
+"Mahasiswa mengerti dan memahami cara pendefinisian Variabel, Konstanta, Tipe data dan operator dalam Visual Basic"
+Mahasiswa mengerti dan memahami struktur kontrol If dan Select
+"Mahasiswa mengerti dan memahami struktur kontrol For, Do dan While"
+"Mengerti dan memahami pembuatan Dialog Box dengan menggunakan statement MsgBox, Function MsgBox dan Function InputBox"
+Mahasiswa mengerti dan memahami pembuatan Menu
+Mahasiswa mengerti dan memahami penggunaan Database dalam Visual Basic
+"Mahasiswa mengerti dan memahami pengelolaan file baik menampilkan, menyaring maupun menyimpan"
+Mahasiswa mengerti dan memahami integrasi Visual Basic dengan Microsoft Office
+Mahasiswa dapat membuat aplikasi database dalam Visual Basic
+Mahasiswa dapat menjelaskan apa yang dimaksud dengan Algoritma
+Mahasiswa dapat menyebutkan sifat-sifat dan effisiensi dalam menggunakan algoritma
+Mahasiswa dapat menuangkan masalah dengan menggunakan algoritma.
+Mahasiswa mengerti dan dapat menggunakan algoritma ke dalam jenis-jenis bahasa pemrograman
+Mahasiswa dapat mengenal pemrograman berorientasi objek
+Mahasiswa dapat mengenal pemrograman fungsional
+Mahasiswa dapat mengenal pemrograman terstruktur
+Mahasiswa dapat mengenal pemrograman modular
+Mahasiswa dapat mengenal pemrograman even driven
+Mahasiswa dapat menjelaskan memori dan penggunaan memori dalam membuat program
+Mahasiswa dapat menjelaskan Scope variabel dalam membuat program
+Mahasiswa dapat mengerti apa yang dimaksud dengan logika
+Mahasiswa dapat mengerti apa yang dimaksud dengan Argumen Relational
+Mahasiswa dapat mengerti apa yang dimaksud dengan Common Fallacies
+Mahasiswa mengerti apa itu axiomatisation dan pemakaiannya dalam penjabaran algoritma
+Mahasiswa mengerti apa itu dan bagaimana bentuk normal form serta pemakaian dalam algoritma
+Mahasiswa mengerti apa itu gerbang logika dan apa saja gerbang logika serta pemakaiannya dalam algoritma
+Mahasiswa dapat menjelaskan induksi matematika sederhana dan penerapannya dalam algoritma
+Mahasiswa dapat menjelaskan kelemahan dan kelebihan induksi
+Mahasiswa dapat menguraikan struktur induksi
+Mahasiswa dapat menjelaskan apa yang dimaksud dengan sintaks dan Pseudocode dan menuliskannya
+Mahasiswa dapat menuliskan bahasa sehari-hari ke dalam kalimat logika
+Mahsiswa dapat menjelaskan kalimat semantik dan menerjemahkan ke algoritma
+Mahasiswa dapat menjelaskan aturan-aturan dalam inference dan korespondensi dengan teknik argement informal
+Mahasiswa menjelaskan tentang conclutions
+Mahasiswa dapat menjelaskan pengertian list dan pemakaiannya dalam algoritma
+Mahasiswa dapat menjelaskan pengertian array dan pemakaiannya dalam algoritma
+Mahasiswa dapat menjelaskan pengertian link list dan pemakaiannya dalam algoritma
+Mahasiswa dapat menjelaskan pengertian stack dan pemakaiannya dalam algoritma
+Mahasiswa dapat menjelaskan pengertian queue dan pemakaiannya dalam algoritma
+Mahasiswa dapat mengerti tentang algoritma greedy dan dapat mengaplikasikan kedalam masalah
+Mahasiswa dapat mengerti tentang algoritma minimum spanning tree dan dapat mengaplikasikan kedalam masalah
+Mahasiswa dapat mengerti tentang algoritma kruskal dan dapat mengaplikasikan kedalam masalah
+Mahasiswa dapat mengerti algoritma divide and conquer dan apa yang saja yang termasuk dalam algoritma divide and conquer
+Mahasiswa dapat mengerti algoritma Binary Search dan dapat mengaplikasikan kedalam masalah
+Mahasiswa dapat mengerti algoritma Algoritma Quick Sort dan dapat mengaplikasikan kedalam masalah
+Mahasiswa dapat mengerti algoritma Dynaming Programming dan apa yang saja yang termasuk dalam algoritma Dynaming Programming
+Mahasiswa dapat mengaplikasikan algoritma Dynaming Programming kedalam masalah

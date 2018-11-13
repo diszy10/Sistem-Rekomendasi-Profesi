@@ -1,0 +1,31 @@
+TIK
+Mahasiswa dapat menjelaskan cara kerja translator dan menjelaskan masing-masing kerja komponen.
+Mahasiswa dapat menjelaskan cara kerja kompilator dan masing-masing kerja komponennya.
+"Mahasiswa dapat memberi contoh  bahasa beserta alfabet, huruf, kata yang membentuk kata."
+Mahasiswa dapat memberi contoh lexem dan token dari suatu bahasa.
+Mahasiswa dapat memberi contoh tata bahasa dan bahasa yang diwakili.
+Mahasiswa dapat mnyebutkan tugas mesin pengenal bahasa
+"Mahasiswa dapat menyebutkan kelas bahasa berdasakan Chomsky dan menyebutkan: dasar pengemlompokannya, hirarki, dan pengenal bahasa setiap kelas dan hubungannya dengan kelas bahasa lain."
+Mahasiswa dapat menjelaskan hubungan bahasa reguler dengan scanner.
+Mahasiswa dapat merumuskan bahasa reguler dalam tatabahasa dan ekspresi reguler.
+"Mahasiswa dapat menjalankan ootomata hingga deterministik, nondeterministik,  atau nondeterministik dengan transisi hampa."
+Mahasiswa dapat membentuk otomata hingga berdasarkan tatabahasa atau ekpresi reguler.
+Mahasiswa dapat membuat program pengenal  token (scanner) sederhana
+Mahasiswa dapat mengidentifakasi dan dapat memberi contoh  tata bahasa jenis CFG
+Mahasiswa dapat menjelaskan hubungan bahasa CF dengan parser
+Mahasiswa dapat menderivasikan (left most maupun right most)sebuah kalimat dari suatu tata bahasa
+Mahasiswa dapat membuat pohon derivasi dari suatu kalimat
+Mahasiswa dapat mengidentifikasikan kalimat/tatabahasa yang ambigous
+"Mahasiswa dapat memodifikasi grammar menggunakan teknik-teknik left-factoring, corner-subtitution,  singleton substitution, eliminasi ambiguitas, eliminasi left recursion, eliminasi Unreachable Productions"
+Mahsiswa dapat menyebutkan teknik-teknik parsing dengan pendekatan top-down maupun bottom-up 
+Mahasiswa dapat membuat parser dengan teknik recursive predictive 6.3. Operator-precedence parser
+Mahasiswa dapat membuat parser dengan teknik operator precedence parser
+Mahasiswa dapat menngunakan alat-alat bantu tata bahasa augmented dan attributed dalam mengimplementasikan tatabahasa.
+Mahasiswa dapat menjelaskan proses analisa semantik dari salah satu teknik
+Mahasiswa dapat menyebutkan kegunaan dan teknik kode antara
+Dapat membuat kode antara dari suatu statement
+Mahasiswa dapat menjelaskan proses pada pembangkitan antara dan fungsinya.
+"Mahasiswa dapat menjelaskan kesalahan leksikal, sintaks, dan semantik"
+Mahasiswa dapat menjelaskan prosedur penanganan dan perbaikan kesalahan
+Mahasiswa dapat memberi contoh optimasi untuk kasus-kasus umum.
+Mahasiswa dapat menyebutkan fungsi tabel simbol dan elemen yang biasa ada di tabel simbol

@@ -1,0 +1,53 @@
+TIK
+"Mengetahui latar belakang lahirnya teori graph, "
+Mampu menyajikan graph tak berarah secara formal
+"Memahami pengertian subgraph, derajat dan keterhubungan graph."
+Mampu menentukan derajat simpul pada graph
+Mampu memeriksa keterhubungan dalam sebauh graph
+Mampu menentukan hasil operasi graph
+Mampu menyajikan graph dalam bentuk matriks dan mampu mengenali graph yang disajikan dalam bentuk matriks.
+Mengetahui hubungan antara  matriks dan graph
+Memahami pengertian graph berlabel
+Mengenal beberapa masalah dalam konteks graph tidak berarah
+Mampu memeriksa keberadaan lintasan euler pd sebuah graph
+Mampu memeriksa keberadaan lintasan pedagang keliling dalam suatu graph 
+Mampu mengenali sebuah graph planar
+Mampu memberikan penyajian planar dari sebuah graph planar
+Mengenal sifat dari graph planar
+Mengenal dan memahami pewarnaan simpul pada sebuah graph
+Mampu menentukan bilangan kromatik dari sebuah graph
+Memahami pemodelan masalah ke dalam masalah pewarnaan simpul graph
+Memahami pewarnaan region pada graph planar
+Mengenal bentuk graph pohon (tree) & jenis-jenisnya
+Memahami beberapa sifat graph pohon
+"Memahami pengertian pohon rentangan, pohon berakar dan pohon biner"
+Mengenal beberapa masalah dalam konteks graph pohon
+Mampu membuat model masalah ke dalam bentuk masalah dalam konteks graph pohon
+Mampu menerapkan algoritma Solin dan Kruskal dalam mencari solusi dari masalah pohon rentangan
+Mampu membangun pohon dari sintaks kalimat
+Mengenal konsep graph berarah
+Mampu menyajikan sebuah graph berarah
+Memahami pengertian derajat simpul dan keterhubungan dalam konteks graph berarah
+Mampu menyajikan graph berarah dalam bentuk matriks dan dapat mengenali graph berarah yang disajikan dalam bentuk matriks
+Mengenal masalah yang dapat dimodelkan dalam bentuk graph berarah 
+Mampu menyelesaikan masalah Jalur Terpendek  dan masalah Aliran Maksimal
+Dapat membuat diagram mesin Stata dan mesin Automata 
+Mampu menentukan output dari mesin Stata Hingga
+Memahami apa yang dimaksud dengan algoritma
+Memahami apa yang dimaksud dengan analisis algoritma
+Memahami kriteria algoritma yang baik
+Mampu menganalisis  sebuah algoritma 
+Memahami teknik rekursif 
+Memahami teknik iteratif
+Mampu membedakan teknik rekursif dan teknik iteratif
+Mampu mengenali algoritma yang menggunakan teknik rekursif maupun yang menggunakan teknik iteratif
+Mengenal beberapa penerapan teknik rekursif dalam penyusunan algoritma
+Mengenal penerapan teknik iteratif dalam penyusunan algoritma
+Mengetahui definisi dari teknik Backtraking 
+Mampu menerapkan teknik backtracking dalam masalah Sum of subset 
+Mengenal teknik DANDC secara umum 
+Mampu menerapkan algoritma DANDC dalam masalah searching dan sorting
+Mengetahui definisi dari teknik Greedy 
+Dapat  menerapkannya dalam berbagai contoh masalah
+Mampu membandingkan penerapan teknik greedy dengan teknik lain terhadap sebuah masalah
+Mengenal teknik dalam pemrograman dinamis & dapat menerapkannya.

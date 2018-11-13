@@ -1,0 +1,64 @@
+TIK
+Mengenal dan menjelaskan tipe-tipe dari data.
+Mendefinisikan atau mendeklarasikan data dalam bahasa pemrograman tertentu.
+Menjelaskan bagaimana pemetaan data ke dalam storage.
+Memberi contoh bagaimana cara pemetaan data ke storage.
+Mengenali organisasi data secara logik maupun secara fisik dari struktur data.
+Menyimpulkan waktu pelaksanaan program dijalankan sebagai fungsi ukuran data input.
+Menghitung Big_Oh
+Memberi contoh perhitungan Big Oh dengan suatu contoh persoalan.
+Menjelaskan/mengenal jenis-jenis array
+Menjelaskan/mengenal apa yang dimaksud dengan record.
+Dapat mendeklarasikan ke dalam bahasa pemrogrman.
+Memberi contoh pendekrarasian dalam bahasa pemrogrman tertentu.
+Menjelaskan/mendefinisikan bagaimana pemetaan array ke storage.
+Menjelaskan/mengerti apa yang dimaksud dengan array segitiga dan sparse serta penerapannya kedalam suatu aplikasi.
+Memahami apa yang dimaksud dengan linked list.
+Mengerti mengenai stack dan operasi-operasi dasarnya.
+Memberikan contoh aplikasi.
+Menjelaskan bagaimana mendeklarasikan stack kedalam bahasa pemrograman.
+Memahami mengenai pemakai stack.
+Memberikan contoh aplikasinya.
+Memahami dan mendefinisikan queue
+Mengerti mengenai operasi-operasi dasar queue.
+Menjelaskan/mendefinisikan penyajian queue dalam array.
+Memberikan contoh penyajiannya.
+Menjelaskan tentang deque dan cara kerjanya.
+Membedakan antara queue berperioritas dan yang tidak berperioritas.
+Memberikan contoh.
+Mengenal apa yang dimaksud dengan linked list.
+Mengenal dan memahami penyajian linked list dalam memori
+Menjelaskan atau memahami apa yang dimaksud dengan kunjungan pada linked list.
+Memberikan contoh.
+"Memahami operasi-operasi pada linked list seperti penyisipan, penghapusan dan pencarian simpul, dan sebagainya."
+Memberikan contoh.
+Mengetahui dan membedakan apa yang dimaksud dengan header linked list dan doubly linked list.
+Memahami apa yang dimaksud dengan graph dan jenis-jenisnya.
+Mengenal mengenai representasi matriks adjacency dan linked list.
+Memberikan contoh.
+"Memahami mengenai graph traversal, path terpendek dan spanning tree."
+Memberikan contoh aplikasi dan penerapannya kedalam bahasa pemrograman.
+Mengenal/mengetahui pengertian dasar tree.
+"Mengenal binary tree, representasinya dan traversalnya"
+Mengetahui bagaimana cara balancing binary search tree.
+Mengetahui apa yang dimaksud dengan height balanced tree dan bound balanced tree.
+Memberikan contoh.
+Menjelaskan cara kerja selection sort.
+Membuat algoritma dan penerapannya kedalam bahasa pemrograman.
+Menghitung Big-Oh
+Menjelaskan cara kerja insertion sort.
+Membuat algoritma dan penerapannya kedalam bahasa pemrograman.
+Menghitung Big-Oh
+Menjelaskan cara kerja bubble sort.
+Membuat algoritma dan penerapannya kedalam bahasa pemrograman.
+Menghitung Big-Oh.
+Menjelaskan cara kerja Quick sort.
+Membuat algoritma dan penerapannya kedalam bahasa pemrograman.
+Menghitung Big-Oh.
+Menjelaskan cara kerja heap sort.
+Membuat algoritma dan penerapannya kedalam bahasa pemrograman.
+Menghitung Big-Oh.
+Mengerti bagaimana melakukan search terhadap suatu struktur data dengan cara sequential.
+Menghitung waktu pencarian.
+Mengerti bagaimana melakukan search terhadap suatu struktur data dengan cara binary search tree.
+Menghitung waktu pencarian.

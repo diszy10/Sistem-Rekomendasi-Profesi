@@ -1,0 +1,88 @@
+ELEMEN KOMPETENSI
+Mengindentifikasi tools yang akan digunakan 
+Menggunakan tools perangkat lunak 
+Mengumpulkan kebutuhan skalabilitas
+Menganalisis kebutuhan skalabilitas
+"Menganalisis library, komponen, atau framework yang sesuai dengan konteks "
+"Membuat proof of concept library, komponen atau framework berdasarkan konteks kebutuhan "
+"Merancang integrasi dan batasan penggunaan library, komponen atau framework "
+Menganalisis kebutuhan dan skenario penggunaan 
+Merancang layout tampilan dan skenario penggunaan 
+Merancang arsitektur aplikasi yang akan dibuat 
+Mendokumentasikan arsitektur aplikasi 
+Melakukan evaluasi teknologi terkini 
+Menggunakan fungsi-fungsi terkini 
+Memilih protokol komunikasi 
+Menganalisis arsitektur mesin 
+Mengimplementasikan komunikasi data 
+Memilih karakteristik processor 
+Memilih karakteristik peripheral
+Memanfaatkan sistem operasi real time
+Memanfaatkan pemrograman real time
+Menggunakan sistem operasi 
+Menggunakan resource bersama 
+"Memanfaatkansemaphore"
+Memanfaatkan pemrograman paralel
+Menjelaskan kebutuhan platform
+Mempersiapkan bahasa pengolahan multimedia
+Menggunakan syntax khusus multimedia
+"Menggunakanstatement"
+Menetapkan kompatibilitas dari hardware dan software 
+Mengevaluasi kesesuaian kode dengan spesifikasinya 
+Memperbaiki kode sesuai dengan coding-guidelines dan best-practices 
+Membuat pengecualian penulisan kode terhadap coding-guidelines
+Mempersiapkan dokumentasi peralatan dan lingkungan pengujian statis 
+"Membuat programdriver test/stub"
+Melaksanakan pengujian
+Mengukur aplikasi ketika stress test dijalankan
+Menganalisis data pengujian
+Melaporkan dokumentasi pengujian
+Membuat skenario UAT 
+Menjalankan skenario UAT
+Membuat petunjuk teknis 
+Memberikan petunjuk langsung
+Mengelola tindak lanjut dari pelanggan
+Merancang rencana cutover aplikasi
+Melaksanakan cutover aplikasi
+Analisis permintaan perubahan
+"Analisis komponen, modul yang perlu dimodifikasi"
+Analisis dampak perubahan dan efek samping perubahan
+Analisis permasalahan yang memerlukan tindakan cepat 
+Menentukan mekanisme notification sewaktu timbul suatu permasalahan 
+Menjalankan mekanisme graceful failure jika terjadi permasalahan 
+Analisis resources yang kritikal yang diperlukan aplikasi
+Membuat modul visualisasi penggunaan resources
+Menganalisis diferensiasi perangkat lunak yang terbaru dengan yang existing 
+Membuat pogram perangkat lunak penambahan diferensiasi
+"Mengidentifikasi standar keamanan informasi (seperti SNI_ISO 27001, COBIT, dll) "
+Mengevaluasi komponen pokok standar keamanan untuk menentukan apakah bisa diaplikasikan secara efektif untuk kebutuhan organisasi 
+Menganalisa skema akses berbasis peran/tanggung jawab/jabatan untuk implementasi keamanan informasi 
+Menganalisis dan memilih referensi standar keamanan dalam tingkatan strategis 
+Mengevaluasi potensi dari risiko keamanan dan mengambil tindakan koreksi dan tindakan pemulihan 
+Melaksanakan proses penilaian risiko 
+Menetapkan prosedur untuk memastikan hak akses tidak diberikan sebelum seluruh tindakan perlindungan telah diimplementasikan dan perjanjian telah ditandatangani 
+Mengaudit sistem untuk mencatatkan dan mengkatalogkan faktor_faktor yang berkaitan dengan keamanan di dalam lingkungan jaringan 
+"Strategi keberlanjutan bisnis harusdikembangkan untuk menentukan pendekatan secara keseluruhan terhadap keberlanjutan bisnis"
+"Melakukan identifikasi dokumenpengembangan proyek"
+Melakukan analisis studi kelayakan awal
+Mengembangkan project charter
+Mengembangkan rencana pengelolaan proyek
+Mengarahkan dan mengelola pekerjaan proyek
+Memantau dan mengendalikan pekerjaan proyek
+Melakukan pengendalian perubahan secara terintegrasi
+Menyerahkan/menutup proyek
+Merencanakan pengelolaan ruang lingkup proyek 
+Mengumpulkan persyaratan- persyaratan proyek 
+Menetapkan ruang lingkup proyek 
+Menciptakan WBS 
+Melakukan validasi ruang lingkup proyek 
+"Mengendalikan ruang lingkupproyek"
+Merencanakan pengelolaan kualitas
+Melakukan penjaminan kualitas
+Mengendalikan kualitas
+Melakukan pemilihan perangkat keras. 
+"Melakukan analisa operasional"
+Melakukan perawatan secara berkala.
+Memilih perangkat lunak
+Melakukan analisa operasional
+Melakukan perawatan secara berkala.

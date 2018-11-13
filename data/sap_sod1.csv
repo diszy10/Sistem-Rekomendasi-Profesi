@@ -1,0 +1,53 @@
+TIK
+Menjelaskan pengertian file dan membedakanya dari field dan record serta dapat menyebutkan contohnya.
+"Menyebutkan tipe-tipe dari klasifikasi file, menjelaskan pengertiannya dan dapat menyebutkan contohnya masing-masing."
+Menyebutkan dan menjelaskan pengertian tipe-tipe dari model akses file dan dapat menyebutkan contohnya.
+Menjelaskan pengertian organisasi file.
+Menjelaskan dan menyebutkan 4 teknik organisasi file.
+Menjelaskan cara pengaksesan file baik secara direct maupun secara sequential access dan dapat menyebutkan contohnya.
+Menyebutkan tipe-tipe dari operasi file.
+"Menjelaskan operasi file menurut model  penggunaannya, seperti batch dan interactive processing."
+"Menjelaskan operasi file menurut model operasi file, seperti creation, update, retrieval, maintenance dan dapat menyebutkan contohnya."
+Menjelaskan pengertian sistem file dan dapat menyebutkan tugas dari sistem file.
+Menyebutkan jenis media penyimpanan file.
+Menjelaskan pengertian magnetic tape dan menyebutkan contohnya.
+Menjelaskan pengertian representasi data dan densitas.
+"Menjelaskan pengertian parity dan error control dan dapat menyebutkan jenis parity check, seperti even parity dan odd parity, dan dapat pula menyebutkan contohnya."
+Menjelaskan pengertian sistem block.
+Menghitung kapasitas penyimpanan dan waktu akses.
+Menyebutkan organisasi berkas dan metode akses yang digunakan oleh sebuah megnetic tape.
+Menyebutkan keuntungan dan keterbatasan dari penggunaan magnetic tape.
+Menjelaskan pengertian magnetic disk.
+Menjelaskan pengertian karakteristik secara fisik magnetic disk.
+Menjelaskan pengertian representasi data dan menyebutkan 2 teknik pengalamatan data yang disimpan pada disk seperti metode silinder dan metode sektor.
+Menyebutkan organisasi berkas dan metode akses yang digunakan oleh sebuah magnetic disk.
+Menyebutkan keuntungan dan keterbatasan dari penggunaan magnetic disk.
+Menjelaskan cara pembuatan berkas sequential.
+Menjelaskan pengertian retrieval berkas sequential dan menyebutkan contohnya.
+Menjelaskan pengertian update berkas sequential dan contohnya.
+Menjelaskan pengertian berkas turunan.
+"Menjelaskan pengertian teknik pemetaan langsung, menyebutkan jenis-jenisnya dan menjelaskannya."
+Menjelaskan pengertian teknik pencarian tabel.
+"Menjelaskan teknik kalkulasi alamat, menyebutkan jenisnya, dan menjelaskan serta menyebutkan contoh-contohnya."
+Menjelaskan pengertian pendekatan terhadap masalah collision dan dapat memberikan contohnya.
+"Menjelaskan pengertian berbagai pendekatan tersebut diatas, dan memberikan contohnya."
+Menjelaskan pengertian synonim chaining dan dapat memberikan contohnya.
+Menjelaskan pengertian bucket addressing dan dapat memberikan contohnya.
+Menjelaskan definisi dan aplikasi berkas index sequential.
+Menjelaskan implementasi organisasi berkas index sequential.
+Menjelaskan pengertian block index dan data.
+Menerapkan ke dalam bahasa pemrograman dan membuat aplikasinya.
+"Menjelaskan pengertian prime dan overflow data area, dan dapat menyebutkan contohnya."
+Menerapkannya dalam bahasa pemrograman.
+Menjelaskan pengertian organisasi inverter file dan dapat menyebutkan contohnya.
+Menjelaskan pengertian organisasi multi list file dan dapat menyebutkan contohnya.
+Menerapkannya dalam bahasa pemrograman.
+Menjelaskan definisi dan persyaratan kontrol I/O.
+Menjelaskan pengertian dorektori berkas dan kontrol informasi.
+Menjelaskan pengertian kontrol peralatan.
+Menjelaskan dan menyebutkan tipe-tipe saluran.
+Menjelaskan dan menyebutkan tipe-tipe buffer.
+Menjelaskan pengertian natural merge file dan dapat memberikan contohnya.
+Menjelaskan pengertian balance merge file dan dapat memberikan contohnya.
+Menjelaskan pengertian polyphase merge file dan dapat memberikan contohnya.
+Menjelaskan pengertian cascade merge file dan dapat memberikan contohnya.

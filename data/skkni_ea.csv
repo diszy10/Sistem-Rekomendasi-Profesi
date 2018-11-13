@@ -1,0 +1,38 @@
+ELEMEN KOMPETENSI
+Memilih metode pemodelan yang digunakan dalam merancang arsitektur bisnis
+Mengidentifikasikan sudut pandang fungsi manajemen yang digunakan untuk menunjukkan stakeholder's concerns sudah diakomodir dalam arsitektur bisnis
+"Mengidentifikasikan perangkat alat bantu dan teknik yang digunakan untuk menangkap, memodelkan dan menganalisis sudut pandang fungsi manajemen yang dipilih"
+Mengidentifikasi business service yang dibutuhkan dalam arsitektur bisnis yang berbasis service architecture
+Mendefinisikan matriks yang diperlukan
+Mendefinisikan diagram yang diperlukan
+"Menguraikan jenis kebutuhan(requirements) yang akan dikumpulkan"
+Menetapkan baseline arsitektur bisnis yang sudah ada dan sesuai dengan target
+Mengidentifikasikan target arsitektur bisnis yang sesuai dengan visi organisasi
+Mengidentifikasi kesenjangan antara baseline dan target arsitektur bisnis
+"Menyiapkan roadmap bisnis yang sesuai dengan baseline, target dan kesenjangan antara baseline dan target pada arsitektur bisnis"
+Melakukan stakeholder review secara formal
+Mengidentifikasikan artefak arsitektur dalam architecture landscape yang terkait dengan arsitektur bisnis
+Menguji artefak arsitektur dalam architecture landscape yang terkait arsitektur bisnis
+Menentukan standar building block dan metode pemodelan yang dipilih untuk arsitektur bisnis dari architecture repository
+Menghasilkan dokumen arsitektur bisnis
+Memilih metode pemodelan arsitektur data dan menetapkan data building block yang diperlukan
+"Mengidentifikasikan perangkat alat bantu dan teknik yang digunakan untuk menangkap, memodelkan dan menganalisis sudut pandang yang dipilih"
+Menetapkan baseline arsitektur data yang sudah ada dan sesuai dengan target
+Menyiapkan roadmap arsitektur data
+Mengevaluasi artefak arsitektur dalam architecture landscape yang terkait dengan arsitektur data
+Menentukan standar building block dan metode pemodelan yang dipilih untuk arsitektur data dari architecture repository
+Membuat dokumen arsitektur data
+Memilih metode pemodelan arsitektur aplikasi dan menetapkan application building block yang diperlukan
+"Mengidentifikasikan perangkat bantu dan teknik yang digunakan untuk menangkap, memodelkan dan menganalisis sudut pandang yang dipilih"
+Menetapkan baseline arsitektur aplikasi yang sudah ada dan sesuai dengan target
+Menyiapkan roadmap arsitektur aplikasi
+Mengevaluasi artefak arsitektur dalam Architecture Landscape yang terkait dengan arsitektur aplikasi
+Menentukan standar building block dan metode pemodelan yang dipilih untuk arsitektur aplikasi dari architecture repository
+Membuat dokumen arsitektur aplikasi
+Memilih metode pemodelan yang digunakan dalam merancang arsitektur teknologi
+Mengidentifikasi perangkat bantu dan teknik yang digunakan untuk memodelkan dan menganalisis sudut pandang yang dipilih
+Menetapkan baseline arsitektur teknologi yang sudah ada dan sesuai dengan target
+Menyiapkan roadmap arsitektur teknologi
+Mengidentifikasi dan memeriksa artefak arsitektur dalam architecture landscape yang terkait dengan arsitektur teknologi
+Menentukan standar building block dan metode pemodelan yang dipilih untuk arsitektur teknologi dari architecture repository
+Menghasilkan dokumen arsitektur teknologi

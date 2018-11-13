@@ -1,0 +1,31 @@
+ELEMEN KOMPETENSI
+"Menganalisis library, komponen, atau framework yang sesuai dengan konteks "
+"Membuat proof of concept library, komponen atau framework berdasarkan konteks kebutuhan "
+"Merancang integrasi dan batasan penggunaan library, komponen atau framework "
+Mengidentifikasi konsep data dan struktur data 
+Menerapkan struktur data dan akses terhadap struktur data tersebut 
+Mengidentifikasi entitas yang terkait dengan lingkup program yang akan dibuat beserta hubungannya 
+Membuat query informasi dasar terhadap model data yang telah dikembangkan 
+Menggunakan metode pengembangan program 
+Menggunakan diagram program dan deskripsi program 
+Menerapkan hasil pemodelan ke dalam pengembangan program 
+Mempersiapkan perangkat lunak aplikasi data deskripsi/SQL 
+Menggunakan fitur aplikasi SQL 
+Mengisi tabel 
+Melakukan operasi relasional 
+Membuat stored procedure 
+Membuat function 
+Membuat trigger 
+Melakukan perintah commit dan rollback 
+Mendefinisikan tingkat backup informasi yang diperlukan 
+Merancang fasilitas backup yang memadai untuk memastikan seluruh informasi dan software yang penting dapat tersedia kembali setelah bencana atau kerusakan media 
+"Memilih lokasi untuk fasilitas backup informasi di jarak yang aman, untuk menghindari kerusakan yang bersamaan dengan situs utama "
+Menerapkan perlindungan fisik dan lingkungan kepada informasi backup yang sesuai dengan standar yang diterapkan pada lokasi utama 
+Menerapkan enkripsi pada informasi backup sesuai kebutuhan 
+Menentukan jangka waktu penyimpanan informasi backup sesuai kebutuhan bisnis 
+Mengelola administrasi backup
+Melakukan pengujian secara berkala kepada media backup untuk memastikan media tersebut dapat diandalkan pada kondisi darurat 
+"Melakukan pengujian secara berkala terhadap prosedur restorasi, untuk memastikan bahwa prosedur tersebut efektif dan dapat dilakukan pada jangka waktu yang dialokasikan oleh prosedur pemulihan "
+Mengklasifikasikan komponen pusat data yang membutuhkan pemeliharaan 
+Menyusun perencanaan sistem pengelolaan komponen (suku cadang) pusat data 
+Menyusun laporan perencanaan pemeliharaaan komponen pusat data 

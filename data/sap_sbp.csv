@@ -1,0 +1,40 @@
+TIK
+Mahasiswa dapat menjelaskan tentang Kecerdasan Buatan serta  posisi SBP / SP di dalamnya
+Mahasiswa dapat menerangkan keuntungan SBP
+Mahasiswa dapat menggambarkan arsitektur Sistem Berbasis Pengetahuan
+Mahasiswa dapat menjelaskan area aplikasinya.
+Mahasiswa dapat menyebutkan elemen dari teori pengetahuan dan tekniknya
+"Mahasiswa dapat menjelaskan teknik-teknik-teknik representasi pengetahuan : Jaringan Semantik, Schemata, Frames, dan Logika"
+Mahasiswa dapat menjelaskan kelebihan dan kekurangan teknik-teknik tersebut.
+"Mahasiswa mampu memahami perbedaan antara Trees, Lattice dan Graph serta dapat membuat Decision Trees untuk memecahkan masalah SBP"
+"Mahasiswa mampu memahami perbedaan penggunaan Pohon, Logika dan Syllogistic untuk memecahkan masalah SBP"
+Mahasiswa mampu memahami aturan-aturan inferensi  
+Mahasiswa mampu memilih metode inferensi yang terbaik untuk memecahkan masalah SBP
+Mahasiswa memahami defini ketidakpastian serta ilustrasinya.
+Mahasiswa mengetahui tipe kesalahan dan induksi.
+Mahasiswa mengetahui definisi dan teori probabilitas klasik.
+Mahasiswa mengetahui mengenai eksperimen dan probabilitas subjektif.
+"Mahasiswa mengetahui probabilitas komposit, kondisi."
+Mahasiswa mengetahui tentang alasan hipotesa dan induksi ke belakang.
+Mahasiswa mengetahui mengenai alasan sementara dan rantai Markov.
+Mahasiswa mengetahui konsep kepercayaan
+Mahasiswa mengetahui konsep kebutuhan dan kecukupan.
+Mahasiswa mengetahui mengenai ketidakpastian pada rantai inferensi.
+"Mahasiswa mengetahui kombinasi dari bukti, klasifikasinya, bagaimana mengkombinasikan bukti dengan logika fuzy, kemungkinan yang efektif serta mengetahui kesulitan dengan independensi yang terbatas."
+"Mahasiswa mengetahui tentang jaringan inferensi, PROSPECTOR, hubungan inferensi serta arsitektur jaringan inferensi."
+"Mahasiswa mengetahui sumber ketidakpastian dalam aturan, mengetahui bahwa adanya kekurangan teori dalam hal ketidakpastian, mengetahui Interaksi antar aturan, bagaimana menyelesaikan konflik, dan mengetahui mengenai keterlibatan dan ketidakpatian."
+"Mahasiswa mengetahui: kesulitan dalam metode Bayesian, Kepercayaan dan ketidakpercayaan, dan bagaimana mengukurnya, mengetahui bagaimana menghitung dengan faktor ketidakpastian."
+"Mahasiswa mengetahui frame dari persepsi, fungsi Massa dan ketidakpastian, mengetahui bagaimana mengkombinasikan bukti, Menormalisasikan kepercayaan, mengetahui bagaimana menggerakan massa dan himpunan, dan mengetahui kesulitan dalam teori Dempster-Shafer"
+"Mahasiswa mengetahui Himpunan fuzzy dan bahasa alami, operasi dalam himpunan fuzzy, Relasi fuzzy, Variabel linguistik, prinsip ekstensi,logika fuzzy,aturan fuzzy komposisi max-min, metode maksimum dan momen, kemungkinan dan probabilitas, aturan translasi, dan ketidakpastian dalam Sistem Berbasis Pengetahuan yang fuzzy."
+Mahasiswa mengetahui mengenai bentuk-bentuk dan notasi dari ketidakpastian.
+Mahasiswa mengetahuan faktor-faktor yang harus dipertimbangan dalam mendesain Sistem Berbasis Pengetahuan
+Mahasiswa mengetahui beberapa model Life Cycle dalam mendesain Sistem Berbasis Pengetahuan
+Mahasiswa dapat mendesain Sistem Berbasis Pengetahuan
+Mahasiswa dapat menggunakan perintah-perintah dasar dari PROLOG untuk membuat SBP.
+Mahasiswa dapat melakukan proses unifikasi & runut balik
+Mahasiswa dapat membuat proses I/O dan perbandingan operator
+Mahasiswa dapat melakukan kontrol dalam program.
+Mahasiswa dapat mengetahui struktur data dalam PROLOG.
+Mahasiswa dapat mengolah string.
+Mahasiswa dapat melakukan baca dan tulis file dalam PROLOG.
+Mahasiswa dapat mengaplikasikan turbo PROLOG

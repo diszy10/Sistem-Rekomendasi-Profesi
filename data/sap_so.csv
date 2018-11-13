@@ -1,0 +1,42 @@
+TIK
+dapat merancang sendiri atau memodifikasi sistem operasi yang telah ada sesuai kebutuhan khusus kita
+menguasai dasar-dasar sistem operasi sehingga mampu menemukenali masalah-masalah komputer dan merumuskan penyelesaiannya secara ilmiah
+dapat menilai sistem operasi dan memilih alternatif sistem operasi sesuai tujuan pembangunan sistem
+"dapat meningkatkan pemanfaatan sistem operasi, sehingga meningkatkan kinerja sistem komputer"
+menjelaskan arti dan fungsi sistem operasi
+menerangkan macam-macam sistem yang terdapat dalam sistem operasi
+menerangkan perkembangan generasi-generasi sistem operasi
+menerangkan operasi yang dilakukan sistem komputer
+"menerangkan struktur sistem komputer, meliputi struktur I/O, struktur penyimpanan dan proteksi hardware"
+menjelaskan komponen sistem operasi dan sumberdaya yang terkait dengan sistem komputer
+menyebutkan layanan yang dapat dilakukan sistem operasi
+menjelaskan yang dimaksud dengan system call dan system program
+menjelaskan struktur sistem operasi
+menjelaskan konsep dasar manajemen proses
+menjelaskan konsepe operasi pada proses
+menyebutkan berbagai cara komunikasi antar proses
+menerangkan maslah yang timbul pada komunikasi antar proses
+Menjelaskan konsep dasar penjadualan prosesor
+menyebutkan dan menerapkan teknik-teknik penjadwalan prosesor
+mengevaluasi metode/teknik-teknik penjadwalan prosesor.
+menjelaskan konsep critical section
+menjelaskan sinkronisasi software berikut algoritmanya dan sinkronisasi hardware berikut beberapa instruksi yang ada di dalamnya
+mengerti konsep semaphore
+menerangkan beberapa masalah klasik dalam sinkronisasi
+"memahami hubungan antara deadlock dengan sumberdaya, dan kapan dikatakan terjadi deadlock"
+mengetahui cara mendeteksi dan memulihkan sistem dari deadlock
+mengetahui cara-cara menghindari dan mencegah terjadinya deadlock.
+menjelaskan pengertian dan konsep dasar memori
+menguraikan manajemen memori pada berbagai sistem operasi
+menerangkan penggunaan dan pengalokasian memori baik secara berurutan maupun tidak berurutan
+menerangkan fungsi memori semu (virtual memory) sebagai pelengkap memori kerja
+menjelaskan algoritma paging dan segmentasi.
+menjelaskan konsep file dan direktory
+"menjelaskan struktur sistem file, termasuk pengalokasian dan manajemen ruang kosong"
+menjelaskan implementasi  dari direktori
+menganalisa efisiensi dan unjuk kerja sistem file.
+menjelaskan pengertian perangkat keras I/O
+menyebutkan jenis-jenis dan macam-macamnya
+menerangkan penanganan suatu device I/O pada sistem komputer.
+Menjelaskan dan mengerti mekanisme proteksi yang diperlukan dalam suatu sistem komputer dari segala macam ancaman
+menganalisa masalah sekuritas sistem komputer

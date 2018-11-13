@@ -1,0 +1,103 @@
+ELEMEN KOMPETENSI
+Mengumpulkan kebutuhan server untuk aplikasi yang dijalankan
+Mengumpulkan kebutuhan sistem operasi untuk server
+Mengumpulkan informasi perangkat server
+Mengumpulkan spesifikasi perangkat
+Menyiapkan dokumentasi kebutuhan pengguna
+Mengumpulkan informasi tentang teknologi untuk membantu organisasi 
+Mengkonfirmasi komponen-komponen sistem yang dibutuhkan 
+Mengidentifikasi persyaratan jaringan 
+Mengidentifikasi spesifikasi arsitektur server environment 
+"Membuat desain awalserver environment"
+Mempersiapkan peralatan dan bahan yang diperlukan
+Menentukan perangkat lunak dan perangkat keras
+Merancang hak akses sistem 
+Merancang akses yang aman ke file dan sumber daya
+Membatasi akses ke peralatan yang menyediakan akses informasi pribadi para pengguna
+Melindungi data yang terhubung pada jaringan eksternal
+Mengidentifikasi kebutuhan fungsi server
+Mengembangkan strategi pengujian server
+Mendokumentasikan skenario pengujian sistem
+Mempersiapkan kebutuhan proses instalasi sistem operasi server
+Menginstall sistem operasi server
+Menguji hasil instalasi sistem operasi server
+Mendokumentasikan konfigurasi sistem operasi instalasi server 
+Menyiapkan sumber daya berbagi pakai 
+Mengkonfigurasi sumber daya berbagi pakai 
+Menguji sumber daya yang berbagi pakai 
+Mempersiapkan kebutuhan proses upgrade server 
+Mem-backup server sebelum upgrade 
+Melakukan upgrade server 
+Menguji server 
+Mem-backup server setelah upgrade 
+"Mendokumentasikanserver"
+Mempersiapkan kebutuhan proses migrasi server 
+Mem-backup server sebelum migrasi 
+Memigrasi server 
+Menguji server 
+Mem-backup server setelah migrasi 
+Mendokumentasikan server 
+Mempersiapkan kebutuhan proses instalasi virtual server 
+Mengkonfigurasi virtual server untuk kebutuhan instalasi 
+Menguji virtual server 
+Mem-backup virtual server 
+"Mendokumentasikanvirtual server"
+Mempersiapkan kebutuhan proses instalasi common network services pada server 
+Meng-install komponen- komponen common network services agar dapat berjalan sesuai fungsinya
+"Menguji layanancommon network services berdasarkan fungsinya"
+Mendokumentasikan proses instalasi komponen-komponen common network services
+Mempersiapkan kebutuhan proses instalasi support aplication services pada server
+Meng-install komponen-komponen support aplication services agar dapat berjalan fungsinya
+"Menguji layanansupport aplication services berdasarkan fungsinya"
+Mendokumentasikan proses instalasi komponen-komponen support aplication services
+Mempersiapkan kebutuhan proses konfigurasi sistem operasi server
+Mengkonfigurasi sistem operasi server
+Menguji konfigurasi sistem operasi server
+Membackup konfigurasi sistem operasi server
+Mendokumentasikan konfigurasi sistem operasi server
+Mempersiapkan kebutuhan proses mengkonfigurasi common network services pada server
+Mengkonfigurasi komponen-komponen common network services agar dapat menjalankan fungsinya
+"Menguji layanancommon network services berdasarkan fungsinya"
+Mendokumentasikan hasil konfigurasi komponen-komponen common network services
+Mempersiapkan kebutuhan proses mengkonfigurasi common application services pada server
+Mengkonfigurasi komponen-komponen common application services agar dapat menjalankan fungsinya
+"Menguji layanancommon application services berdasarkan fungsinya"
+Mendokumentasikan hasil konfigurasi komponen-komponen common application services
+Mempersiapkan kebutuhan proses konfigurasi virtual server
+"Mengkonfigurasivirtual server"
+"Menguji konfigurasivirtual server"
+Mem-backup konfigurasi virtual server 
+Mendokumentasikan konfigurasi virtual server
+Menentukan kebutuhan program utilitas
+Membuat program utilitas
+Menangani kesalahan program utilitas
+Menguji modul program utilitas
+Mendokumentasikan Modul kode program utilitas
+Menjamin akun pengguna agar selalu terkendali
+Memasukkan metode-metode kendali ke dalam sistem
+Mengimplementasi- kan prosedur keamanan tambahan
+Menetapkan ukuran ketersediaan sehingga dapat disepakati target ketersediaan sistem
+"Mengukur kemampuan suatu layanan, komponen- komponen infrastruktur, atau configuration item dalam menjalankan fungsinya"
+Memasang perangkat utilitas untuk pengukuran ketersediaan sistem
+Mengidentifikasi tingkat ketersediaan layanan yang tidak bisa dicapai yang berdampak pada pengguna
+Mendokumentasikan hasil pemantauan ketersediaan sistem
+Menetapkan ukuran kinerja sehingga dapat disepakati target kinerja sistem
+Mengukur keandalan suatu sumber daya dan layanan dalam menjalankan fungsinya
+Memasang perangkat utilitas untuk pengukuran kinerja sistem
+Mendokumentasikan hasil pemantauan kinerja sistem
+Mengidentifikasi metode kendali yang tepat
+Memantau ancaman terhadap server environment
+Memasang perangkat utilitas untuk pemantauan ancaman keamanan
+Memutakhirkan akun pengguna agar selalu terkendali
+Menyiapkan data dokumentasi dari sistem yang bermasalah
+Mengidentifikasi penyebab kerusakan sistem
+Menganalisis dampak dari kerusakan sistem
+Mendokumentasikan hasil investigasi kerusakan sistem
+Memperbaiki kerusakan sistem
+Mendokumentasikan tindakan terhadap perbaikan kerusakan sistem
+"Evaluasi arsitekturserver environment"
+Evaluasi sistem keamanan server environment
+Mempersiapkan sistem yang akan direstore
+Melakukan restore sistem operasi
+Menguji restore sistem operasi
+Mendokumentasikan proses restore
